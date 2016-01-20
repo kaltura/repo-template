@@ -14,7 +14,7 @@ Provide a highlevel breakdown of features that matter in this project and known 
 # Project Specific Sections and Information
 Every project has its own important information to expose, place it here under clear titles and text.  
 If you need assistance with writing, structure or unsure what's important or not - email community@kaltura.com and we'll assist.  
-**Don’t get lazy just because README is for developers** - Visitors of your repository will want to know how to work with this project, how to extend this code, how to configure it, and more. The more guidelines and information you'll provide the easier it will be for others to use, and contribute to the project.
+**Don’t get lazy just because "it is for developers"** - Visitors of your repository will want to know how to work with this project, how to extend this code, how to configure it, and more. The more guidelines and information you'll provide the easier it will be for others to use, and contribute to the project.
 
 # How you can help (guidelines for contributors) 
 Thank you for helping Kaltura grow! If you'd like to contribute please follow these steps:
