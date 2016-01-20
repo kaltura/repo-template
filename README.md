@@ -1,5 +1,4 @@
 # Name of the Project here
-[![License](https://img.shields.io/badge/license-AGPLv3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0.html)
 This section should describe the project in highlevel and provide introduction to what this repository is all about and who it is relevant for.
 Provide a highlevel breakdown of features that matter in this project and known limitations this project doesn't handle.
 
