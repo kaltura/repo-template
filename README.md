@@ -1,5 +1,5 @@
 # Name of the Project here
-This section should describe the project in highlevel and provide introduction to what this repository is all about and who it is relevant for.
+This section should describe the project in highlevel and provide introduction to what this repository is all about and who it is relevant for.  
 Provide a highlevel breakdown of features that matter in this project and known limitations this project doesn't handle.
 
 # Documentation and guides
@@ -12,8 +12,8 @@ Provide a highlevel breakdown of features that matter in this project and known 
 * [Doc Title X](http://linktodoc.com)
 
 # Project Specific Sections and Information
-Every project has its own important information to expose, place it here under clear titles and text.
-If you need assistance with writing, structure or unsure what's important or not - email community@kaltura.com and we'll assist.
+Every project has its own important information to expose, place it here under clear titles and text.  
+If you need assistance with writing, structure or unsure what's important or not - email community@kaltura.com and we'll assist.  
 **Don’t get lazy just because README is for developers** - Visitors of your repository will want to know how to work with this project, how to extend this code, how to configure it, and more. The more guidelines and information you'll provide the easier it will be for others to use, and contribute to the project.
 
 # How you can help (guidelines for contributors) 
@@ -27,7 +27,7 @@ Thank you for helping Kaltura grow! If you'd like to contribute please follow th
 * Read the [Code of conduct](https://forum.kaltura.org/faq) and be patient and respectful
 
 # Get in touch
-You can learn more about Kaltura and start a free trial at: http://corp.kaltura.com  
+You can learn more about Kaltura and start a free trial at: http://corp.kaltura.com    
 Contact us via Twitter [@Kaltura](https://twitter.com/Kaltura) or email: community@kaltura.com  
 We'd love to hear from you!
 
